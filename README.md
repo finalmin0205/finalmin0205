@@ -27,7 +27,7 @@
 [![Email](https://img.shields.io/badge/Email-finalmin0205-blue?style=flat&logo=gmail)](mailto:finalmin0205@dongyang.ac.kr)
 
 
-## 우리 대학을 소개합니다.
+## 🏫우리 대학을 소개합니다🏫
 
 [![동양미래대학교 유튜브](https://img.shields.io/badge/YouTube-동양미래대학교-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/user/user-gf9ks9zw3j)
 [![동양미래대학교 홈페이지](https://img.shields.io/badge/Website-동양미래대학교-blue?style=for-the-badge&logo=web)](https://www.dongyang.ac.kr/dongyang/index.do)
