@@ -21,7 +21,7 @@
 
 ## 나의정보4 📞연락수단📞
 [![Instagram](https://img.shields.io/badge/Instagram-final_min0205-orange?style=flat&logo=instagram)](https://www.instagram.com/final_min0205/)
-[![Email](https://img.shields.io/badge/Email-Click%20to%20Email-blue?style=flat&logo=gmail)](mailto:finalmin0205@dongyang.ac.kr)
+[![Email](https://img.shields.io/badge/Email-finalmin0205-blue?style=flat&logo=gmail)](mailto:finalmin0205@dongyang.ac.kr)
 
 
 ## 우리 대학을 소개합니다.
