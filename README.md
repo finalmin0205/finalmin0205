@@ -2,9 +2,6 @@
 
 ## Welcome To My Page!
 
-🎉 저의 OSS과제 페이지에 오신 걸 환영합니다!
-
-
 ## 나의 정보1 🤣태어난 년도🤣
 ![이미지](https://github.com/finalmin0205/bigdatabusiness_jm/assets/144201052/cc3cfa15-5a62-49fe-8cb7-b39d357660d6)
   ### 2002년생 22살...
@@ -19,6 +16,8 @@
 ![이미지](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA3MTZfNDUg%2FMDAxNTYzMjAzOTkzMjg3.RPhwfYuc1Lnfa0uAjJJdg0Jd6AMmGE-eVLMfWHenbmAg.z3V7BrrBnYsCuPdb9xE-EGz1eOoWxDd5ErcGuSbAoCUg.JPEG.btbd777%2FIMG_20190716_001745.jpg&type=sc960_832)
   ### Day6 한 페이지가 될 수 있게
 
+## 나의정보4 📞연락수단📞
+📸 Instagram: @final_min0205
 
 
 ## 우리 대학을 소개합니다.
