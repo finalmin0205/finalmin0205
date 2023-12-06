@@ -4,10 +4,12 @@
 ###### 이 곳에서 저를 간단하게 소개하려 합니다
 
 
-## 나의 정보.1 🤣태어난 년도🤣
+## 나의 정보.1 🤣생애🤣
 <img src="https://github.com/finalmin0205/bigdatabusiness_jm/assets/144201052/cc3cfa15-5a62-49fe-8cb7-b39d357660d6" alt="이미지" width="50%">
 
 #### -2002년생 22살입니다.
+#### 고향은 인천이고 현재도 인천에 거주중입니다.
+
 
 
 ## 나의 정보.2 👩‍💻직업👩‍💻
@@ -19,9 +21,11 @@
 
 
 ## 나의 정보.3 🎶좋아하는 음악🎶
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA3MTZfNDUg%2FMDAxNTYzMjAzOTkzMjg3.RPhwfYuc1Lnfa0uAjJJdg0Jd6AMmGE-eVLMfWHenbmAg.z3V7BrrBnYsCuPdb9xE-EGz1eOoWxDd5ErcGuSbAoCUg.JPEG.btbd777%2FIMG_20190716_001745.jpg&type=sc960_832" alt="이미지" width="50%">
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA3MTZfNDUg%2FMDAxNTYzMjAzOTkzMjg3.RPhwfYuc1Lnfa0uAjJJdg0Jd6AMmGE-eVLMfWHenbmAg.z3V7BrrBnYsCuPdb9xE-EGz1eOoWxDd5ErcGuSbAoCUg.JPEG.btbd777%2FIMG_20190716_001745.jpg&type=sc960_832" alt="이미지" width="50%"> [![한페이지가 될 수 있게_유튜브](https://img.shields.io/badge/https://www.youtube.com/watch?v=vnS_jn2uibs)](https://www.youtube.com/@user-gf9ks9zw3j)
 
 #### -DAY6의 한 페이지가 될 수 있게
+#### 군생활 당시 너무 감명깊게 들었던 노래입니다.
+#### 이 노래를 듣고 군생활을 아주 열심히 했던 것 같습니다.
 
 ## 나의 정보.4 📞연락수단📞
 [![Instagram](https://img.shields.io/badge/Instagram-final_min0205-orange?style=flat&logo=instagram)](https://www.instagram.com/final_min0205/)
