@@ -17,7 +17,7 @@
   ### Day6 한 페이지가 될 수 있게
 
 ## 나의정보4 📞연락수단📞
-📸 Instagram: @final_min0205
+[![Instagram](https://img.shields.io/badge/Instagram-YourInstagramID-orange?style=flat&logo=instagram)](https://www.instagram.com/final_min0205/)
 
 
 ## 우리 대학을 소개합니다.
