@@ -13,7 +13,7 @@
 
 
 ## 나의 정보3 🎶좋아하는 음악🎶
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA3MTZfNDUg%2FMDAxNTYzMjAzOTkzMjg3.RPhwfYuc1Lnfa0uAjJJdg0Jd6AMmGE-eVLMfWHenbmAg.z3V7BrrBnYsCuPdb9xE-EGz1eOoWxDd5ErcGuSbAoCUg.JPEG.btbd777%2FIMG_20190716_001745.jpg&type=sc960_832" alt="이미지" width="100%">
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA3MTZfNDUg%2FMDAxNTYzMjAzOTkzMjg3.RPhwfYuc1Lnfa0uAjJJdg0Jd6AMmGE-eVLMfWHenbmAg.z3V7BrrBnYsCuPdb9xE-EGz1eOoWxDd5ErcGuSbAoCUg.JPEG.btbd777%2FIMG_20190716_001745.jpg&type=sc960_832" alt="이미지" width="20%">
   ### Day6 한 페이지가 될 수 있게
 
 ## 나의정보4 📞연락수단📞
