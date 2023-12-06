@@ -4,24 +4,24 @@
 ###### 이 곳에서 저를 간단하게 소개하려 합니다
 
 
-## 나의 정보1 🤣태어난 년도🤣
+## 나의 정보.1 🤣태어난 년도🤣
 <img src="https://github.com/finalmin0205/bigdatabusiness_jm/assets/144201052/cc3cfa15-5a62-49fe-8cb7-b39d357660d6" alt="이미지" width="50%">
 
 #### -2002년생 22살입니다.
 
 
-## 나의 정보2 👩‍💻직업👩‍💻
+## 나의 정보.2 👩‍💻직업👩‍💻
 <img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimage.utoimage.com%2Fpreview%2Fcp992635%2F2023%2F06%2F202306027389_500.jpg&type=sc960_832" alt="이미지" width="50%">
 
 #### -현재 직업은 대학생이고 교내활동으론 홍보대사활동중이며 내년부터 학과대표 활동도 할 예정입니다.
 
 
-## 나의 정보3 🎶좋아하는 음악🎶
+## 나의 정보.3 🎶좋아하는 음악🎶
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA3MTZfNDUg%2FMDAxNTYzMjAzOTkzMjg3.RPhwfYuc1Lnfa0uAjJJdg0Jd6AMmGE-eVLMfWHenbmAg.z3V7BrrBnYsCuPdb9xE-EGz1eOoWxDd5ErcGuSbAoCUg.JPEG.btbd777%2FIMG_20190716_001745.jpg&type=sc960_832" alt="이미지" width="50%">
 
 #### -DAY6의 한 페이지가 될 수 있게
 
-## 나의정보4 📞연락수단📞
+## 나의 정보.4 📞연락수단📞
 [![Instagram](https://img.shields.io/badge/Instagram-final_min0205-orange?style=flat&logo=instagram)](https://www.instagram.com/final_min0205/)
 [![Email](https://img.shields.io/badge/Email-finalmin0205-blue?style=flat&logo=gmail)](mailto:finalmin0205@dongyang.ac.kr)
 
