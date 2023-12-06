@@ -31,3 +31,4 @@
 [![동양미래대학교 유튜브](https://img.shields.io/badge/YouTube-동양미래대학교-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/user/user-gf9ks9zw3j)
 [![동양미래대학교 홈페이지](https://img.shields.io/badge/Website-동양미래대학교-blue?style=for-the-badge&logo=web)](https://www.dongyang.ac.kr/dongyang/index.do)
 [![동양미래대학교 홈페이지](https://img.shields.io/badge/Website-동양미래대빅데이터경영-blue?style=for-the-badge&logo=web)](https://www.dongyang.ac.kr/sites/dmu_23260/index.do)
+[![동양미래대학교 홈페이지](https://img.shields.io/badge/Website-동양미래대인공지능-blue?style=for-the-badge&logo=web)](https://www.dongyang.ac.kr/sites/dmu_23259/index.do)
