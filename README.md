@@ -3,7 +3,7 @@
 ## Welcome To My Page!
 
 ## 나의 정보1 🤣태어난 년도🤣
-![이미지](https://github.com/finalmin0205/bigdatabusiness_jm/assets/144201052/cc3cfa15-5a62-49fe-8cb7-b39d357660d6){:width="20%"}
+<img src="https://github.com/finalmin0205/bigdatabusiness_jm/assets/144201052/cc3cfa15-5a62-49fe-8cb7-b39d357660d6" alt="이미지" width="100%">
   ### 2002년생 22살...
   
 
