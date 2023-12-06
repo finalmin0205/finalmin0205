@@ -22,7 +22,7 @@
 
 ## 나의 정보.3 🎶좋아하는 음악🎶
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA3MTZfNDUg%2FMDAxNTYzMjAzOTkzMjg3.RPhwfYuc1Lnfa0uAjJJdg0Jd6AMmGE-eVLMfWHenbmAg.z3V7BrrBnYsCuPdb9xE-EGz1eOoWxDd5ErcGuSbAoCUg.JPEG.btbd777%2FIMG_20190716_001745.jpg&type=sc960_832" alt="이미지" width="50%"> 
-[![한페이지가 될 수 있게 유튜브](https://img.shields.io/badge/한페이지가%20될%20수%20있게%20유튜브-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=vnS_jn2uibs)
+[![한페이지가 될 수 있게 유튜브](https://img.shields.io/badge/YouTube-한페이지가 될 수 있게-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=vnS_jn2uibs)
 
 #### -DAY6의 한 페이지가 될 수 있게
 #### 군생활 당시 너무 감명깊게 들었던 노래입니다.
